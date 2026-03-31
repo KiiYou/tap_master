@@ -1,6 +1,6 @@
-# my_app
+# Tap Master
 
-A new Flutter project.
+A Flutter game.
 
 ## Getting Started
 
